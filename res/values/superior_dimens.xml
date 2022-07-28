@@ -6,4 +6,6 @@
 <resources>
     <!-- Meminfo in overview -->
     <dimen name="meminfo_bottom_margin">34dp</dimen>
+    <dimen name="meminfo_top_margin">22dp</dimen>
+
 </resources>
